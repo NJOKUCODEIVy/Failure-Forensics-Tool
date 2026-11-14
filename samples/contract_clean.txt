@@ -1,0 +1,17 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is entered into as of March 1, 2026 ("Effective Date") by and between Brightline Analytics LLC, a Delaware limited liability company ("Provider"), and Harbor & Pine Retail Inc. ("Client").
+
+1. Services. Provider will deliver monthly demand-forecasting reports and maintain Client's forecasting dashboard.
+
+2. Term. This Agreement begins on the Effective Date and continues until February 28, 2027, unless terminated earlier under Section 5.
+
+3. Fees. Client will pay Provider a fixed fee of $12,500.00 USD per month. Invoices are due within 30 days of receipt.
+
+4. Confidentiality. Each party will protect the other party's confidential information using at least reasonable care.
+
+5. Termination. Either party may terminate this Agreement with 60 days' written notice.
+
+Signed:
+Dana Okafor, CEO, Brightline Analytics LLC
+Marcus Feld, COO, Harbor & Pine Retail Inc.
